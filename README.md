@@ -38,10 +38,8 @@ RTC, DMA, ADC, DAC, I2C, SPI, USART, CAN, USB.
 Зависимости от программ:
 
 > Make
-
->     путь до файла make.exe
-
->     \Toolchain\Make\bin
+     путь до файла make.exe
+     \Toolchain\Make\bin
 
 > OpenOCD
 >     путь до файла openocd.exe
