@@ -8,8 +8,8 @@ C_SOURCES =  \
 
 ASM_SOURCES = startup.S
 
-GCC_PATH = ../toolchain/RISC-V Embedded GCC/bin
-OCD_PATH = ../toolchain/OpenOCD/bin
+GCC_PATH = ../../Toolchain/RISC-V Embedded GCC/bin
+OCD_PATH = ../../Toolchain/OpenOCD/bin
 
 OCD = "$(OCD_PATH)/openocd"
 
