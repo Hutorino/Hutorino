@@ -37,7 +37,7 @@ RTC, DMA, ADC, DAC, I2C, SPI, USART, CAN, USB.
 
 Зависимости от программ:
 
-> Make \r\n
+> Make <br>
 \t путь до файла make.exe\r\n
 \t \Toolchain\Make\bin
 
