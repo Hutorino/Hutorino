@@ -38,18 +38,18 @@ RTC, DMA, ADC, DAC, I2C, SPI, USART, CAN, USB.
 Зависимости от программ:
 
 > Make <br>
-\t путь до файла make.exe\r\n
-\t \Toolchain\Make\bin
+&emsp; путь до файла make.exe\r\n
+&emsp; \Toolchain\Make\bin
 
-> OpenOCD
->     путь до файла openocd.exe
->     \Toolchain\OpenOCD\bin
+> OpenOCD <br>
+&emsp; путь до файла openocd.exe
+&emsp; \Toolchain\OpenOCD\bin
 
-> RISC-V Embedded GCC
->     путь до файлов GCC
->     \Toolchain\RISC-V Embedded GCC\bin
+> RISC-V Embedded GCC <br>
+&emsp; путь до файлов GCC
+&emsp; \Toolchain\RISC-V Embedded GCC\bin
 
-> WCH-LinkUtility
->     необходимо установить драйвер для WCH-Link
->     \Toolchain\WCH-LinkUtility\Drv_Link
+> WCH-LinkUtility <br>
+&emsp; необходимо установить драйвер для WCH-Link
+&emsp; \Toolchain\WCH-LinkUtility\Drv_Link
 
