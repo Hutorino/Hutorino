@@ -33,3 +33,23 @@ CPU clock: 144MHz.
 RTC, DMA, ADC, DAC, I2C, SPI, USART, CAN, USB.
 
 ```
+
+
+Зависимости от программ:
+
+> Make
+>     путь до файла make.exe
+>     \Toolchain\Make\bin
+
+> OpenOCD
+>     путь до файла openocd.exe
+>     \Toolchain\OpenOCD\bin
+
+> RISC-V Embedded GCC
+>     путь до файлов GCC
+>     \Toolchain\RISC-V Embedded GCC\bin
+
+> WCH-LinkUtility
+>     необходимо установить драйвер для WCH-Link
+>     \Toolchain\WCH-LinkUtility\Drv_Link
+
